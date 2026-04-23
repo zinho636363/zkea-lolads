@@ -1,0 +1,14 @@
+[
+  {
+    "email": "1234",
+    "senha": "babalu",
+    "expira": "2026-05-22",
+    "status": "active"
+  },
+  {
+    "email": "123",
+    "senha": "1234vvv",
+    "expira": "2026-05-22",
+    "status": "active"
+  }
+]
