@@ -28,5 +28,11 @@
     "senha": "semsenha",
     "expira": "2026-05-22",
     "status": "active"
+  },
+  {
+    "email": "loginteste",
+    "senha": "7856231",
+    "expira": "2026-04-26",
+    "status": "active"
   }
 ]
