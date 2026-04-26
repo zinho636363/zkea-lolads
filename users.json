@@ -34,5 +34,11 @@
     "senha": "7856231",
     "expira": "2026-04-26",
     "status": "active"
+  },
+  {
+    "email": "isaq",
+    "senha": "09098989",
+    "expira": "2026-04-27",
+    "status": "active"
   }
 ]
