@@ -1,4 +1,0 @@
-cImage==2.0.2
-colorama==0.4.6
-pillow==11.3.0
-qrcode==8.2
